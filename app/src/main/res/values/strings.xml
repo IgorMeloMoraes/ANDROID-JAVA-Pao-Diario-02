@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pão Diário</string>
+    <string name="txt_titulo">Dia a dia com os pais da igreja</string>
+    <string name="txt_descricao">Gere seu devocional com os pais da igreja </string>
+    <string name="txt_promessa"> </string>
+    <string name="btn_promessa"> Pão Diário </string>
+
+    <!--Descrições das imagens-->
+    <string name="description_img_logo">Imagem da Logo</string>
+    <string name="description_img_fundo">Imagem de fundo superior</string>
+</resources>
